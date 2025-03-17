@@ -31,7 +31,7 @@ Modelagem: **Modelos Conceitual e Lógico**
 
 📄 **script** - Script das consultas pedidas
 
-📂 **banco** - Tabelas do banco de dados em script SQL  
+📂 **database** - Tabelas do banco de dados em script SQL  
 
 &nbsp;&nbsp;&nbsp;├── acervo_musicas_cantor.sql - Tabela de cantores/bandas
 
